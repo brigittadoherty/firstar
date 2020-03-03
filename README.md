@@ -1,3 +1,3 @@
 # firstar 
 Class Exercise
-https://brigittadoherty.github.io/firstar/nikkitree
+https://brigittadoherty.github.io/firstar/squaressquaressquares
